@@ -72,14 +72,4 @@ blockchain/
 python -m unittest discover tests
 ```
 
-## 🤝 貢獻
-
-歡迎貢獻！您可以 fork 此倉庫並提交 pull request。在提交之前，請確保您的代碼符合項目的編碼標準並包含相關測試。
-
-## 📜 授權
-
-本項目基於 MIT 許可證授權。更多信息請參見 [LICENSE](LICENSE) 文件。
-
 ---
-
-祝您編碼愉快！🚀
